@@ -1,0 +1,24 @@
+//NOTAS:
+El programa se puede ejecutar correctamente ya que añadimos un boton para cambiar el nombre del servior desde cualquier computadora(para poner el nombre del servidor es solo con una diagonal invertida, ejemplo: PCTECLERDO\SISTEMAS), solo basta con tener la base de datos instalada, para eso la adjuntamos como copia de seguridad (.bak), se tiene que entrara a SQL Server y dar en restaurar base de datos, la seleccionamos y la tendremos lista
+
+--->INSTALADOR----------------------------------------------------------
+
+*Para instalar el programa basta con ejecutar el archivo setup.exe
+*Funciona sin necesidad de nada mas que la base de datos instalada
+
+
+--->CODIGO VISUAL STUDIO------------------------------------------------
+*Debido a que se utilizaron complementos externos para la realizacion del programa para ejecutar el programa correctamente desde visual studio se tienen que instalar estos complementos, aunque se puede visualizar el codigo correctamente
+
+-VisualBasicPowerPack = se instala el archivo con el mismo nombre en la carpeta 
+
+-VSI_bundle = se instala el archivo con el mismo nombre en la carpeta
+
+-CircularProgressBar Windows Form Control(.Net) = se instala en loS complementos de visual studio en los paquetes NuGet 
+
+-Key-Frame Based Animation Library(.Net) = se instala en loS complementos de visual studio en los paquetes NuGet 
+
+
+
+
+-->SE RECOMIENDA LA INSTALACION PARA EVITAR LA INSTALACION DE PROGREMAS NECESARIO
